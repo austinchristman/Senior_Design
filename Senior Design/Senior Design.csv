@@ -1,0 +1,23 @@
+Id,Designator,Package,Quantity,Designation,Supplier,Cost ,Total Cost,Link,
+1,Conn2,Anderson_1_Horizontal,1,AndersonPP,,,,,
+2,U1,Raspberry_Pi_Zero_W,1,Raspberry_Pi_Zero_W,Adafruit,$10.00 ,$10.00 ,Raspberry Pi,
+3,U3,TSSOP-8_3x3mm_P0.65mm,1,TPA2005D1DRB,DigiKey,$1.39 ,$1.39 ,Audio Amp,https://www.digikey.com/en/products/detail/texas-instruments/TPA2005D1DGN/716473
+4,Conn1,MOLEX_SL_07_Horizontal,1,Molex_SL_07,DigiKey,$1.35 ,$1.35 ,MOLEX 7,https://www.digikey.com/en/products/detail/molex-connector-corporation/70555-0006/1643403
+5,Conn4,Anderson_2_Horizontal_Side_by_Side,0,AndersonPP,DigiKey,$0 ,$0.00 ,,
+6,U4,SOT-23-6_Handsoldering,1,ADC1210S21,DigiKey,$2.07 ,$2.07 ,ADC,https://www.digikey.com/en/products/detail/texas-instruments/ADC121S021CIMF-NOPB/953339
+7,U2,SO-8_5.3x6.2mm_P1.27mm,1,AP1509,DigiKey,$1.32 ,$1.32 ,5V Buck,https://www.digikey.com/en/products/detail/diodes-incorporated/AP1509-50SG-13/1301328
+8,RV1,Potentiometer_Bourns_3214J_Horizontal,1,R_POT_TRIM,DigiKey,$3.04 ,$3.04 ,Poteniometer,https://www.digikey.com/en/products/detail/bourns-inc/3214J-1-103E/248440
+9,R7,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,10,1000,DigiKey,$0.07 ,$0.72 ,RES-1K,https://www.digikey.com/product-detail/en/rohm-semiconductor/ESR03EZPJ102/RHM1.0KDCT-ND/1762924
+10,R6,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,10,500,DigiKey,0.072,$0.72 ,RES-510,https://www.digikey.com/product-detail/en/rohm-semiconductor/ESR03EZPJ511/RHM510DCT-ND/1762937
+11,R5,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,5,10k,DigiKey,0.12,$0.60 ,RES-10K,https://www.digikey.com/product-detail/en/rohm-semiconductor/ESR03EZPF1002/RHM10KADCT-ND/1983753
+12,"R4,R3",R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,6,150k,DigiKey,0.1,$0.60 ,RES-150K,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0603BTE150K/3198129
+13,R2,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,5,150,DigiKey,0.1,$0.50 ,RES-150 ,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCP0603FTD150R/2240088
+14,R1,R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,0,1k,DigiKey,0,$0.00 ,,
+15,L1,L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,5,47uH,DigiKey,0.4,$2.00 ,Inductor-47uH,https://www.digikey.com/en/products/detail/kemet/L0603B470MDWFT/8601365
+16,D1,D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,5,D_Schottky,DigiKey,0.36,$1.80 ,Diode Schottky,https://www.digikey.com/en/products/detail/avx-corporation/SD0603S040S0R2/3749483
+17,Conn3,MOLEX_SL_02_Horizontal,1,Molex_SL_02,DigiKey,0.78,$0.78 ,MOLEX 2,https://www.digikey.com/products/en?keywords=WM4900-ND
+18,C9,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,5,0.1uF,DigiKey,0.1,$0.50 ,CAP-0.1uF,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KO8NNNC/1276-1005-1-ND/3889091
+19,"C8,C7,C6,C4,C3",C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,15,1uF,DigiKey,0.038,$0.57 ,CAP-1uF,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B105MO8NNWC/1276-6524-1-ND/5961383
+20,"C5,C1",C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,6,10uF,DigiKey,0.27,$1.62 ,CAP-10uF,https://www.digikey.com/en/products/detail/murata-electronics/GRM188D71A106KA73D/6606090
+21,C2,C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,5,0.68u,DigiKey,0.2,$1.00 ,CAP-0.68uF,https://www.digikey.com/en/products/detail/tdk-corporation/CGA3E2X5R1C684K080AA/3949689
+,,,,,,,$30.58 ,,
